@@ -1,0 +1,18 @@
+% Physique :
+tfin = 1000
+xL = -150
+xR = 150
+w1 = 1e-2
+w2 = 2e-2
+delta = 0
+x0 = 0
+n = 24
+sigma_norm = 7.071067811865476 %0.04
+
+% Numérique :
+Nsteps = 1000
+Nintervals = 800
+output = output
+
+% Printing: set to 0 to reduce printouts
+verbose = 1

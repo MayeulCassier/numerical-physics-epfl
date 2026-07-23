@@ -1,0 +1,25 @@
+z0 = 0.0
+zfin = 2.961320293094315e+04
+signe = 1.0
+rho_0 = 1.2
+
+gamma = 1.0
+p_0 = 1.0e5
+
+tfin =259200
+x0 = -310000e3
+y0 = 0
+alpha = 0.184307750740664
+v0 = 1.25e3
+C_x = 0.3
+d = 4
+m = 5800
+
+nsteps = 200
+output = output.out
+output2 = output2.out
+sampling = 1
+
+maxit = 500000
+fixe_step = false
+epsilon = 1e-4

@@ -1,0 +1,20 @@
+% Physique:
+R=0.10
+ra=0.03
+rb=0.05
+A=2e4
+epsilon_a=1
+epsilon_b=5
+epsilon_R=2
+Va=1.5
+VR=0.0
+
+% Numérique:
+N1=5000    %c'est le coef
+N2=5000   %c'est le vrai
+output=output
+
+% Set to 0 to reduce printouts
+verbose=1 
+testnumber=2 %pour le num de la question
+testN=0 %1 pour n1=n2 et 2 pour n1=n1*n2

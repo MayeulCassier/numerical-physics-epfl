@@ -1,0 +1,36 @@
+# Build outputs
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+build/
+bin/
+
+# Generated numerical data and figures
+output/
+outputs/
+results/
+figures/
+plots/
+*.dat
+*.txt
+*.csv
+*.mat
+*.fig
+*.eps
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# MATLAB and editor files
+*.asv
+*.mlx
+.vscode/
+.idea/
+
+# Local system files
+.DS_Store
+Thumbs.db

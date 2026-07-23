@@ -1,0 +1,36 @@
+% Physique :
+cb_gauche=harmonique  %fixe, libre, harmonique, sortie
+cb_droit=fixe
+cb_haut=fixe  %fixe, libre, harmonique, sortie
+cb_bas=fixe
+v=cas2 % u^2=const or not
+A=1.0      % amplitude condition au bord harmonique
+omega=7.5  % frequence condition au bord harmonique
+tfin=3
+
+schema=A % Equation A ou B ou C
+Nx=65
+Ny=15
+minitx=3 % numero du mode propre
+minity=2
+initialization = zero   % cos ou sin pour un mode propre
+fmn=1.0 % amplitude initiale
+
+CFL=1.0
+output=sim/output.#.out
+n_stride=1
+ecrire_f=1
+
+hL=7.5
+hR=0.02
+h00=2.0  % profondeur si v_uniform = true
+xa=1
+xb=10
+ya=1.7
+yb=5.3
+xL=0.0  % left boundary of the domain
+xR=12.0 % right boundary of the domain
+yL=0.0  % left boundary of the domain
+yR=6.0 % right boundary of the domain
+
+lance=false
