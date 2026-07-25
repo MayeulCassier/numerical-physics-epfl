@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Mayeul Cassier monogram</title>
+  <desc id="desc">An MC monogram in a dark rounded square with a mint accent.</desc>
+  <rect x="8" y="8" width="144" height="144" rx="36" fill="#08111f"/>
+  <circle cx="124" cy="38" r="10" fill="#5affb0"/>
+  <path d="M34 118V48l24 34 22-34v70" fill="none" stroke="#f2f5f5" stroke-linecap="round" stroke-linejoin="round" stroke-width="13"/>
+  <path d="M123 60c-7-8-15-12-25-12-20 0-34 15-34 34s14 34 34 34c10 0 18-4 25-12" fill="none" stroke="#5affb0" stroke-linecap="round" stroke-width="13"/>
+</svg>

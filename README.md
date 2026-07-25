@@ -1,6 +1,10 @@
 # EPFL Numerical Physics Exercises
 
+<p align="right"><img src="assets/mayeul-cassier-mark.svg" width="64" alt="Mayeul Cassier monogram" /></p>
+
 This repository collects the working code submissions for the EPFL numerical physics exercise series completed across two bachelor semesters.
+
+![Conceptual numerical-physics simulation](assets/numerical-physics-simulation.png)
 
 It consolidates:
 
