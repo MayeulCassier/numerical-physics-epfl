@@ -61,7 +61,7 @@ MATLAB scripts in `analysis/` are preserved as submitted analysis workflows. The
 
 | Exercise | Main code | Analysis scripts | Config files | Report |
 |---|---:|---:|---:|---|
-| 01 | yes | yes | no | yes |
+| 01 | yes | yes | yes | yes |
 | 02 | yes | yes | yes | yes |
 | 03 | yes | yes | yes | yes |
 | 04 | yes | yes | yes | yes |
